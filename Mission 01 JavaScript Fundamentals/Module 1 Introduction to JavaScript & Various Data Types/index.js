@@ -1,1 +1,1 @@
-console.log(98);
+console.log("Variable js Shikbo ")
